@@ -1,0 +1,16 @@
+Name: zaid
+Roll No: 100
+Subjects and Marks:
+  dld: 90.00
+  comp: 85.00
+  civics: 80.00
+GPA: 3.00
+---------------------------
+Name: asad
+Roll No: 101
+Subjects and Marks:
+  dld: 60.00
+  comp: 70.00
+  ciics: 80.00
+GPA: 2.00
+---------------------------
